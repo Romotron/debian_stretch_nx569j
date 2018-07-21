@@ -1,2 +1,1 @@
-# debian_stretch_nx569j
-# debian_stretch_nx569j
+This branch provides files expected to install Debian nativelly on ZTE Nubia Z17 mini (NX569J/H)
